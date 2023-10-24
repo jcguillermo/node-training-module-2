@@ -104,4 +104,11 @@ This guide explains the API routes and their functionality for your Node.js appl
   - `id` (string): Unique ID of the sensor data.
 - **Response:** No content (HTTP 204 status).
 
+
+---
+# Sample Email
+
+Here's a sample image for email :
+
+![Sample Email](email-screenshot.jpg)
 ---
